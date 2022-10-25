@@ -12,7 +12,8 @@ Excel is used a lot for small to medium data exchange and manipulation tasks. Wh
 ## Create the Excel dataset by following along with the tutorial
 
 * Use Power Query to marge data tables (9 min): https://www.youtube.com/watch?v=dse9h2W4ejw&list=PLG9A6ovzPqX4uTMILULzW_MASdnH8j_1z&index=10
-* Download the data file included in this repository.
+* I was able to find the original data file used in the tutorial. It is included in this repository and is called Region wise Sales Data.xlsx.
+* I originally included a different dataset with multiple sheets but it is not an exact match with the data used in the tutorial. If you want to challenge yourself, you could try the assignment with the fabricated data called MergePowerQueryData.xlsx.
 
 ## Turn in your completed Excel dashboard
 
